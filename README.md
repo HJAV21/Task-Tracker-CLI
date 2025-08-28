@@ -20,6 +20,11 @@ Tasks are stored in a JSON file (`Task.json`) and you can **add, view, delete, o
 
 ---
 
+## Link
+https://roadmap.sh/projects/task-tracker
+
+---
+
 ## Setup
 Clone or download this repository:
 
@@ -27,6 +32,6 @@ Clone or download this repository:
 git clone https://github.com/yourusername/task-tracker.git
 cd task-tracker
 
-## Link
-https://roadmap.sh/projects/task-tracker
+
+
 
